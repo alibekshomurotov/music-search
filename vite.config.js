@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/music-search/',  // Repository nomiga moslab qo'ying
+  base: '/music-search/',   // repository nomingiz
 })
