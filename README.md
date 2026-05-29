@@ -5,7 +5,7 @@ Foydalanuvchilar qo‘shiq yoki artist nomini qidirib musiqalar haqida ma’lumo
 
 ## 🌐 Live Demo
 
-🔗 https://your-music-search-link.com
+🔗 [https://your-music-search-link.com](https://alibekshomurotov.github.io/music-search/)
 
 ---
 
@@ -39,13 +39,6 @@ Ushbu loyiha foydalanuvchilarga:
 ✅ Tez ishlash
 ✅ Zamonaviy UI
 ✅ API bilan ishlash
-
-
-
-## 📸 Screenshot
-
-Bu yerga loyiha rasmlarini qo‘shishingiz mumkin.
-
 
 
 ---
